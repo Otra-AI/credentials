@@ -9,15 +9,15 @@ A Google Cloud Certified Generative AI Leader is a visionary professional with c
 #### 1.1.1. Defining core gen AI concepts
 
 - artificial intelligence
-- natural language processing
-- machine learning
-- generative AI
-- foundation models
-- multimodal foundation models
 - diffusion models
-- prompt tuning
-- prompt engineering
+- foundation models
+- generative AI
 - large language models
+- machine learning
+- multimodal foundation models
+- natural language processing
+- prompt engineering
+- prompt tuning
 
 #### 1.1.2. Describing the machine learning approaches
 
