@@ -29,34 +29,34 @@ A Google Cloud Certified Generative AI Leader is a visionary professional with c
 
 #### 1.1.4. Identifying how to choose the appropriate foundation model for a business use case
 
-- modality
-- context window
-- security
 - availability and reliability
+- context window
 - cost
-- performance
-- fine-tuning
 - customization
+- fine-tuning
+- modality
+- performance
+- security
 
 #### 1.1.5. Identifying business use cases where gen AI can create, summarize, discover, and automate
 
-- text generation
-- image generation
 - code generation
-- video generation
 - data analysis
+- image generation
 - personalized user experience
+- text generation
+- video generation
 
 #### 1.1.6. Describing how various data types are used in gen AI and the business implications
 
 #### 1.1.7. Explaining the characteristics and importance of data quality and data accessibility in AI
 
+- availability
 - completeness
 - consistency
-- relevance
-- availability
 - cost
 - format
+- relevance
 
 #### 1.1.8. Identifying the differences between structured and unstructured data, and identifying real-world examples of each type
 
@@ -65,12 +65,12 @@ A Google Cloud Certified Generative AI Leader is a visionary professional with c
 ### 1.2 Describe how various data types are used in gen AI and the business implications
 #### 1.2.1. Explaining the characteristics and importance of data quality and data accessibility in AI
 
+- availability
 - completeness
 - consistency
-- relevance
-- availability
 - cost
 - format
+- relevance
  
 #### 1.2.2. Identifying the differences between structured and unstructured data, and identifying real-world examples of each type
 #### 1.2.3. Identifying the differences between labeled and unlabeled data
