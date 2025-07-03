@@ -6,15 +6,15 @@ A Google Cloud Certified Generative AI Leader is a visionary professional with c
 ## Section 1: Fundamentals of gen AI (~30% of the exam)
 
 ### 1.1 Describe core generative AI (gen AI) concepts and use cases
-- Defining core gen AI concepts (e.g., artificial intelligence, natural language processing, machine learning, generative AI, foundation models, multimodal foundation models, diffusion models, prompt tuning, prompt engineering, large language models)
-- Describing the machine learning approaches (e.g., supervised, unsupervised, reinforcement)
-- Identifying the stages of the machine learning lifecycle; data ingestion, data preparation, model training, model deployment, and model management; and the Google Cloud tools for each stage
-- Identifying how to choose the appropriate foundation model for a business use case (e.g., modality, context window, security, availability and reliability, cost, performance, fine-tuning, and customization)
-- Identifying business use cases where gen AI can create, summarize, discover, and automate (e.g., text generation, image generation, code generation, video generation, data analysis, and personalized user experience)
-- Describing how various data types are used in gen AI and the business implications
-- Explaining the characteristics and importance of data quality and data accessibility in AI (e.g., completeness, consistency, relevance, availability, cost, format)
-- Identifying the differences between structured and unstructured data, and identifying real-world examples of each type
-- Identifying the differences between labeled and unlabeled data
+#### 1.1.1. Defining core gen AI concepts (e.g., artificial intelligence, natural language processing, machine learning, generative AI, foundation models, multimodal foundation models, diffusion models, prompt tuning, prompt engineering, large language models)
+#### 1.1.2. Describing the machine learning approaches (e.g., supervised, unsupervised, reinforcement)
+#### 1.1.3. Identifying the stages of the machine learning lifecycle; data ingestion, data preparation, model training, model deployment, and model management; and the Google Cloud tools for each stage
+#### 1.1.4. Identifying how to choose the appropriate foundation model for a business use case (e.g., modality, context window, security, availability and reliability, cost, performance, fine-tuning, and customization)
+#### 1.1.5. Identifying business use cases where gen AI can create, summarize, discover, and automate (e.g., text generation, image generation, code generation, video generation, data analysis, and personalized user experience)
+#### 1.1.6. Describing how various data types are used in gen AI and the business implications
+#### 1.1.7. Explaining the characteristics and importance of data quality and data accessibility in AI (e.g., completeness, consistency, relevance, availability, cost, format)
+#### 1.1.8. Identifying the differences between structured and unstructured data, and identifying real-world examples of each type
+#### 1.1.9. Identifying the differences between labeled and unlabeled data
 
 ### 1.2 Describe how various data types are used in gen AI and the business implications
 - Explaining the characteristics and importance of data quality and data accessibility in AI (e.g., completeness, consistency, relevance, availability, cost, format)
