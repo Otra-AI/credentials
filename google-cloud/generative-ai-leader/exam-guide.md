@@ -25,7 +25,13 @@ A Google Cloud Certified Generative AI Leader is a visionary professional with c
 - unsupervised
 - reinforcement
 
-#### 1.1.3. Identifying the stages of the machine learning lifecycle; data ingestion, data preparation, model training, model deployment, and model management; and the Google Cloud tools for each stage
+#### 1.1.3. Identifying the stages of the machine learning lifecycle and the Google Cloud tools for each stage
+
+- data ingestion
+- data preparation
+- model training
+- model deployment
+- and model management
 
 #### 1.1.4. Identifying how to choose the appropriate foundation model for a business use case
 
