@@ -31,7 +31,7 @@ A Google Cloud Certified Generative AI Leader is a visionary professional with c
 - data preparation
 - model training
 - model deployment
-- and model management
+- model management
 
 #### 1.1.4. Identifying how to choose the appropriate foundation model for a business use case
 
